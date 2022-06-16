@@ -1,4 +1,7 @@
 # SSM-Homework
+
+因为不小心删了第一次差不多做好的代码，所以直接开摆！
+
 项目环境:新建数据库ssm_project然后导入ssm_project.sql
 
 数据库连接
